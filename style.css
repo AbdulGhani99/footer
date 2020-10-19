@@ -1,0 +1,135 @@
+
+.a li{
+    color:white;
+  
+    list-style: none;
+}
+.a{
+    background-color: rgb(46,46,84);
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.a1{
+    margin-left: 100px;
+}
+.a2{
+    margin-left: 80px;
+}
+.a3 img{
+    padding-top: 30px;
+    margin-left: 100px;
+ 
+}
+.qr{
+    width: 120px;
+    height: 120px;
+}
+.apple{
+   margin-top : -11px;
+    width: 130px;
+    height: 40px;
+    cursor: pointer;
+}
+.google{
+    margin-top : 7px;
+    width: 150px;
+    height: 60px;
+    cursor: pointer;
+ 
+}
+.a4 img{
+    padding-top: 30px;
+    margin-left:px;
+    /* width: 180px;
+    height: 100px; */
+}
+.b{
+
+    margin-left: 50px;
+    display: flex;
+}
+.b2{
+    margin-left: 100px;
+}
+.b3{
+    margin-left: 100px;
+}
+.b4{
+    margin-left: 100px;
+}
+.b p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+
+.a1 a{
+    text-decoration: none;
+    color: white;
+}
+.a1 a:hover{
+    text-decoration: underline;
+}
+#heading{
+    font-size: 18px;
+}
+.a2 a{
+    text-decoration: none;
+    color: white;
+}
+.a2 a:hover{
+    text-decoration: underline;
+}
+.app{
+    width: 130px;
+    height: 90px;
+}
+.b p{
+    color: rgb(51,51,51);
+}
+.payment{
+    width: 230px;
+}
+.int{
+    width: 180px;
+}
+.media{
+    width: 180px;
+}
+.verify{
+    width: 180px;
+}
+.c{
+    display: flex;
+    font-size: 12px;
+    justify-content: space-around;
+    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888888;
+
+    
+
+}
+.c1{
+    width: 40%;
+   
+   
+}
+.c2{
+    width: 40%;
+    
+}
+.c3{
+    width: 40%;
+    
+}
+.c4{
+    width: 40%;
+}
+#top{
+    font-size: 16px;
+}
+
+
